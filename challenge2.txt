@@ -1,0 +1,5 @@
+MOV R0, #255
+MOV R1, #254
+MOV R0, R1 //signed multiply
+MOV R2, #5 //random instruction for testing
+MOV R0, R1 //unsigned multiply
